@@ -17,6 +17,7 @@
 2. Ensure that the font file "Brush Script MT" is available in the sketch folder or update the font name accordingly.
 3. Run the sketch by clicking on the "Play" button or press Ctrl + R (Windows/Linux) or Cmd + R (Mac) to execute the code.
 4. Enter the name of the birthday person.
+5. Voilà
 
 ## Code Description
 Here's a brief overview of what the code does:

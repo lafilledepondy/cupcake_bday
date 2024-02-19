@@ -1,5 +1,7 @@
 # Cupcake B'day
 
+🎂🕯️
+
 ## Instructions
 
 * **Mouse Movement:** Move your mouse around to see the interactive lighting effect.
